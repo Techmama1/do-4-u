@@ -1,11 +1,11 @@
 # Do4U
 
 Team Members:
-Carla Thurston
-Adams Lowe
-Dylan Marinari
-Travis Copeland
-Mason Vickery
+Carla Thurston,
+Adams Lowe,
+Dylan Marinari,
+Travis Copeland,
+Mason Vickery,
 
 **Deployed App:** https://do-4-u.herokuapp.com/
 
